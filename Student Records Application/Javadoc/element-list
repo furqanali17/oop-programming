@@ -1,0 +1,6 @@
+module:college.student_records
+college.mtu_application
+college.mtu_database
+college.mtu_model
+college.mtu_records
+college.mtu_test
